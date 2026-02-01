@@ -34,3 +34,4 @@ auto
 alpha
 beta 
 delta
+gama
