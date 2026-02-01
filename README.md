@@ -46,3 +46,4 @@ auto
 polygram
 threads
 mon
+col 
