@@ -37,3 +37,4 @@ delta
 gama
 paye
 del
+refuse
