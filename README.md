@@ -42,3 +42,4 @@ cbk
 fol
 lololo
 woh
+auto
