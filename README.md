@@ -35,3 +35,4 @@ alpha
 beta 
 delta
 gama
+paye
