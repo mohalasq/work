@@ -50,3 +50,4 @@ col
 suf
 licenceed
 age
+power
