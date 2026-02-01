@@ -36,3 +36,4 @@ beta
 delta
 gama
 paye
+del
