@@ -30,3 +30,4 @@ peg
 sd
 zdk
 mpo
+auto
